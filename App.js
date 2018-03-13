@@ -21,7 +21,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Hello world!</Text>
+        <Text>Hello world!!!!!</Text>
         <GetStarted label="Getting started" />
         <GetStarted label="Cancel" />
       </View>
