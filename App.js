@@ -3,7 +3,7 @@ import { StyleSheet, Text, View, Button } from 'react-native';
 
 class GetStarted extends React.Component {
 
-  static color = "red"
+  static color = "blue"
 
   handlePress = (e)=> {
     console.log("Button clicked!")
